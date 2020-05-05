@@ -1,0 +1,38 @@
+/* Add application styles & imports to this file! */
+html, body {
+  width: 100%;
+  height: 100%;
+ } 
+
+
+.titre { 
+  display: flex;
+	align-items: center;
+	justify-content: space-around;
+  height: 5%;
+	flex-wrap: wrap;
+  
+ } 
+
+.timercss { 
+  display: flex;
+	align-items: center;
+	justify-content: space-around;
+  height: 80%;
+	flex-wrap: wrap;
+  font-size: 80px;
+  
+ }
+
+.footer{ 
+  display: flex;
+  flex-grow: 1;
+	align-items: is-fixed-bottom;
+  align-content: right;
+	justify-content: right;
+  background-color:  grey;
+  height: 5%;
+
+ }
+
+
