@@ -24,6 +24,7 @@ import { Observable, Subscription } from "rxjs";
     return `${minutes}:${seconds}`;
   }
 } */
+
 export class AppComponent {
   name = "Mon timer";
   time = "00:00:01";
